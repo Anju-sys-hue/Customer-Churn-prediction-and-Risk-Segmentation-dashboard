@@ -1,4 +1,3 @@
-# Customer-Churn-prediction-and-Risk-Segmentation-dashboard
 # Customer Churn Prediction & Risk Segmentation Dashboard
 
 ## Project Overview
